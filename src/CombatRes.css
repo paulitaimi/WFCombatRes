@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+    padding: 20px;
+  }
+  
+  h2, h3 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+    padding: 5px;
+  }
+  
+  select, button {
+    padding: 5px 10px;
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .player-section {
+    background: #fff;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  button {
+    background: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background: #555;
+  }
+  

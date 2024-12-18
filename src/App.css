@@ -1,38 +1,75 @@
+/* Reset some styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  color: #222;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+button {
+  padding: 10px 20px;
+  background: #333;
   color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  background: #555;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.form-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.player-section {
+  background: #fff;
+  border: 2px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input[type="number"] {
+  width: 50px;
+  padding: 5px;
+}
+
+select, button {
+  padding: 5px 10px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #555;
 }
