@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WFCombatRes/static/css/main.27bc3ffa.css",
+    "main.js": "/WFCombatRes/static/js/main.7858c512.js",
+    "static/js/453.4ead21f6.chunk.js": "/WFCombatRes/static/js/453.4ead21f6.chunk.js",
+    "service-worker.js": "/WFCombatRes/service-worker.js",
+    "index.html": "/WFCombatRes/index.html",
+    "main.27bc3ffa.css.map": "/WFCombatRes/static/css/main.27bc3ffa.css.map",
+    "main.7858c512.js.map": "/WFCombatRes/static/js/main.7858c512.js.map",
+    "453.4ead21f6.chunk.js.map": "/WFCombatRes/static/js/453.4ead21f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27bc3ffa.css",
+    "static/js/main.7858c512.js"
+  ]
+}
