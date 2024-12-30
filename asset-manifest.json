@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/WFCombatRes/static/css/main.313ed417.css",
-    "main.js": "/WFCombatRes/static/js/main.360234ca.js",
+    "main.js": "/WFCombatRes/static/js/main.64cf4cc9.js",
     "static/js/453.4ead21f6.chunk.js": "/WFCombatRes/static/js/453.4ead21f6.chunk.js",
     "service-worker.js": "/WFCombatRes/service-worker.js",
     "index.html": "/WFCombatRes/index.html",
     "main.313ed417.css.map": "/WFCombatRes/static/css/main.313ed417.css.map",
-    "main.360234ca.js.map": "/WFCombatRes/static/js/main.360234ca.js.map",
+    "main.64cf4cc9.js.map": "/WFCombatRes/static/js/main.64cf4cc9.js.map",
     "453.4ead21f6.chunk.js.map": "/WFCombatRes/static/js/453.4ead21f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.313ed417.css",
-    "static/js/main.360234ca.js"
+    "static/js/main.64cf4cc9.js"
   ]
 }
